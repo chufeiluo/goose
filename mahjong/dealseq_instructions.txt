@@ -1,0 +1,8 @@
+The deal sequence is coded as a pair: number, letter
+
+The letters are: B -- bamboo, C -- circle, W -- wan, D -- dragon,
+and X -- wind.
+
+Suits run from 1 to 9, dragons 1 to 3, winds 1 to 4.
+
+There are 136 tiles altogether.
